@@ -1,0 +1,11 @@
+the folder files structure here is the same as the previous projects and the examples provided by the teacher.
+-bin : contain the executable files
+-config : contain the flex/bison files 
+-doc : contain the document about the project(like an experiment report)
+-include : contain all the headers files for definitions...
+-src : contain the source files
+-test : contain the programs used to test the compiler
+-interpreter : the interpreter folder
+
+
+use make to compile an the run ("./C <input.c1"), then use the interpreter to interpret the genereted code "bincode" file.
